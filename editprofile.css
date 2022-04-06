@@ -1,0 +1,118 @@
+#dash
+{
+  width: 300px;
+  height: 650x;
+  /* border: 2px solid #f3971b; */
+  border: 2px solid #f0f0f0;
+ margin-left: 86px;
+ 
+ 
+}
+ul li{
+    list-style: none;
+   margin-left: 0px 0px 0px -62px;
+   
+    border-left-color: yellow;
+    
+    width:100%; 
+    padding:22px 04px 05px 4px;
+   
+   
+     /* border: 2px solid red;  */
+    
+   
+   
+  }
+  li a{
+    text-decoration: none;
+    color:black;
+    
+    
+    
+   
+  }
+  ul li:hover{
+    background-color: #ffd333;
+    
+  }
+  ul{
+    width: 106%;
+    margin-left: -51px;
+    padding:4px 46px 28px 38px;
+  }
+  ul :hover
+{
+
+  width: 96%;
+
+}
+li{
+    margin-left: 10px;
+}
+
+div
+{
+  /* width: 290px;
+  height: 256px; */
+  /* width: 559px;
+    height: 615px;
+  border: 2px solid #f0f0f0;
+  float: left;
+  margin-left: 26px;
+  padding: 20px;
+  */
+  width: 559px;
+    height: 644px;
+    border: 2px solid #f0f0f0;
+    float: left;
+    margin-left: 26px;
+    padding: 20px;
+}
+/* .formii
+
+  {
+    border: 3px solid rgb(245, 238, 238);
+    width: 36%;
+    float: left;
+    padding: 30px;
+    margin-left: 20px;
+    height: 67vh;
+    padding: 43px;
+} */
+.formii input{
+  padding: 10px 0px;
+}
+.fomiibtn
+{
+  padding: 14px 82px 25px 4px;
+}
+
+  .FormLogin input{
+   
+    padding: 23px 5px;
+    width: 89%;
+    
+}
+.FormLogin input:hover
+    {
+border-color:   rgb(143, 194, 245);
+    }
+    h1:hover{
+background-color: #ffd333;
+    }
+    .FormLogin label
+   {
+     font-size: 20px;
+   }
+
+.btyn
+{
+  background-color: #ffd333;
+  color: #3d464d;
+  padding: 10px;
+  border: none;
+}
+#dash:hover
+{
+background-color:#ffd333 ;
+}
